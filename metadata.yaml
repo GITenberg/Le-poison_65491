@@ -1,10 +1,13 @@
 _repo: Le-poison_65491
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Simon, Lucien
     gutenberg_agent_id: '53375'
     url: http://www.gutenberg.org/2009/agents/53375
+covers:
+- cover_type: archival
+  image_path: 65491-h/images/cover.jpg
 creator:
   author:
     agent_name: Haraucourt, Edmond
@@ -19,6 +22,8 @@ creator:
     - https://fr.wikipedia.org/wiki/Edmond_Haraucourt
     - https://en.wikipedia.org/wiki/Edmond_Haraucourt
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/65491#Le-poison
 gutenberg_issued: '2021-06-02'
 gutenberg_type: Text
 identifiers:
